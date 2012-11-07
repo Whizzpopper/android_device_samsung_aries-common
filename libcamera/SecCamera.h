@@ -84,8 +84,8 @@ namespace android {
 
 #define S5K4ECGX_PREVIEW_WIDTH            1280
 #define S5K4ECGX_PREVIEW_HEIGHT           720
-#define S5K4ECGX_SNAPSHOT_WIDTH           2560
-#define S5K4ECGX_SNAPSHOT_HEIGHT          1920
+#define S5K4ECGX_SNAPSHOT_WIDTH           3264
+#define S5K4ECGX_SNAPSHOT_HEIGHT          2448
 
 #define S5K4ECGX_POSTVIEW_WIDTH           640
 #define S5K4ECGX_POSTVIEW_WIDE_WIDTH      800
@@ -97,7 +97,7 @@ namespace android {
 #define S5K4ECGX_THUMBNAIL_BPP            16
 
 /* focal length of 3.43mm */
-#define S5K4ECGX_FOCAL_LENGTH             343
+#define S5K4ECGX_FOCAL_LENGTH             393
 
 #define VGA_PREVIEW_WIDTH               640
 #define VGA_PREVIEW_HEIGHT              480
